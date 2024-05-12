@@ -1,0 +1,2 @@
+# Recipes
+front for recipesCollection
